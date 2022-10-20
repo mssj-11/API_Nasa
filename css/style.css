@@ -1,0 +1,25 @@
+*{
+    margin: 0;  padding: 0;
+    box-sizing: border-box;
+}
+
+
+.text{  margin: 30px; align-items: center; text-align: center; }
+.text button{   margin-top: 25px; padding: 10px 30px;  }
+
+
+.content{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: 30px;
+}
+
+img{
+    width: 300px;
+    height: 50vh;
+    margin-top: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
